@@ -1,4 +1,4 @@
-# Arthematic-operations-on-large-decimal-numbers
+# Arithmetic-operations-on-large-decimal-numbers
 # Addition
 The input is two decimal numbers (can be positive or negative) in the first two lines of a text file called input.txt. Output will be sum of the two numbers. There is no constraint on number of digits in the number before and after decimal.
 
